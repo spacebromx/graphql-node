@@ -1,0 +1,14 @@
+Edit a customer
+mutation {
+  editCustomer(id:"2", age: 30, email:"new@email.com"){
+    name,
+    email
+  }
+}
+
+Delete a customer
+mutation {
+  deleteCustomer(id:"4"){
+    name
+  }
+}

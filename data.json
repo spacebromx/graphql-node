@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe1",
+      "email": "hello@lol.com",
+      "age": "20"
+    },
+    {
+      "id": "2",
+      "name": "John Doe1",
+      "email": "new@email.com",
+      "age": 30
+    },
+    {
+      "id": "3",
+      "name": "John Doe1",
+      "email": "hello@lol.com",
+      "age": "12"
+    },
+    {
+      "name": "Jimmy CHoo",
+      "email": "jimmy@lol.com",
+      "age": 44,
+      "id": "Rz8EOrv"
+    }
+  ]
+}
